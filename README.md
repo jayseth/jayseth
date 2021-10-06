@@ -3,7 +3,7 @@
 ![DevOps, Development and Automation](https://lh3.googleusercontent.com/proxy/ZTwzwhH9dKieL1lWJSUq9n3EhZ6yntrcIyFVpUehb8IAjDOdnNYmqekm6Puj31RqRPcF4kSwNzOjNpWNW9kzhwmxTCmdJQA)
 
 
-Skills: CI/CD | AWS | Python | Django | Selenium | Flask | Javascript | ReactJS | ExpressJS |  MongoDB | LINUX/BASH | UI/UX Design
+Skills: CI/CD | AWS | Terraform | Python | Django | Selenium | Flask | Javascript | ReactJS | ExpressJS |  MongoDB | LINUX/BASH | UI/UX Design
 
 
 
